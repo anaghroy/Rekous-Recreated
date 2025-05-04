@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "regular";
+  src: url("./assets/Font/Satoshi-Regular.ttf");
+  
+}
+
+@font-face {
+  font-family: "satoshi";
+  src: url("./assets/Font/Satoshi-Variable.ttf");
+  
+}
+
+@font-face {
+  font-family: "satoshi variableItalic";
+  src: url("./assets/Font/Satoshi-VariableItalic.ttf");
+  
+}
+
+@font-face {
+  font-family: "satoshi bold";
+  src: url("./assets/Font/Satoshi-Bold.ttf");
+  
+}
+
