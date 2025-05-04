@@ -7,7 +7,7 @@ import Marquees from "./Components/Marquees";
 import Cards from "./Components/Cards";
 import Footer from "./Components/Footer";
 import LocomotiveScroll from "locomotive-scroll";
-import useDisableInspect from "../disable";
+// import useDisableInspect from "../disable";
 function App() {
   // useEffect(() => {
   //   const handleContextMenu = (e) => e.preventDefault();
