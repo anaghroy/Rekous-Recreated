@@ -1,15 +1,15 @@
-Refokus Recreated ✨
+**Refokus Recreated ✨**
 
 A visually engaging clone of the Refokus website built using React.js and modern CSS animations.
 
-Features🪶
+**Features🪶**
 Personalized Touch: We've infused the essence of Refokus's design while introducing unique features to set our project apart.
 
 Revolutionary Components: Embracing React JS, we've reimagined components to offer fresh perspectives and functionalities.
 
 Immersive Animations: Elevating user engagement with enchanting animations tailored to each section, creating an immersive journey through the website.
 
-## 👨‍💻Tech Stack
+**👨‍💻 Tech Stack**
 React JS: Our cornerstone for crafting dynamic frontend components and managing state efficiently.
 
 Framer Motion: Enhancing visual appeal with captivating marquee animations.
@@ -18,21 +18,23 @@ Tailwind CSS Ensuring precise styling that stays true to the original design aes
 
 Locomotive Scroll Driving our smooth scrolling animations for a fluid user experience.
 
-🌐 Live Site
+**🌐 Live Site**
 [Click here to view the project](https://anaghroy.github.io/Rekous-Recreated/)
 
-✨ Connect with Me
+✨ **Connect with Me**
 [Click here to view LinkedIn](https://www.linkedin.com/in/anagh-roy-5a4640290/)
 
-📸 Screenshots
 
-![Screenshot 1](public/Screenshot 2025-05-05 095054.png)
+## 📸 Screenshots
 
-![Screenshot 2](public/Screenshot 2025-05-05 095112.png)
+![Screenshot 1](public/Screenshot%202025-05-05%20095054.png)
 
-![Screenshot 3](public/Screenshot 2025-05-05 095152.png)
+![Screenshot 2](public/Screenshot%202025-05-05%20095112.png)
 
-📦 Getting Started
+![Screenshot 3](public/Screenshot%202025-05-05%20095152.png)
+
+
+## 📦 Getting Started
 
 ```bash
 git clone https://github.com/anaghroy/Rekous-Recreated.git
