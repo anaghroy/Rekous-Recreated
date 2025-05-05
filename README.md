@@ -26,11 +26,11 @@ Locomotive Scroll Driving our smooth scrolling animations for a fluid user exper
 
 📸 Screenshots
 
-(Screenshot 2025-05-05 095054.png)
+![Screenshot 1](public/Screenshot 2025-05-05 095054.png)
 
-(Screenshot 2025-05-05 095112.png)
+![Screenshot 2](public/Screenshot 2025-05-05 095112.png)
 
-(Screenshot 2025-05-05 095152.png)
+![Screenshot 3](public/Screenshot 2025-05-05 095152.png)
 
 📦 Getting Started
 
