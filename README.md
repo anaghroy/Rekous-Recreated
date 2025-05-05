@@ -25,7 +25,12 @@ Locomotive Scroll Driving our smooth scrolling animations for a fluid user exper
 [Click here to view LinkedIn](https://www.linkedin.com/in/anagh-roy-5a4640290/)
 
 📸 Screenshots
-(Add screenshots of your UI)
+
+(Screenshot 2025-05-05 095054.png)
+
+(Screenshot 2025-05-05 095112.png)
+
+(Screenshot 2025-05-05 095152.png)
 
 📦 Getting Started
 
