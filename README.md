@@ -1,12 +1,33 @@
-# React + Vite
+Refokus Recreated ✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A visually engaging clone of the Refokus website built using React.js and modern CSS animations.
 
-Currently, two official plugins are available:
+Features🪶
+Personalized Touch: We've infused the essence of Refokus's design while introducing unique features to set our project apart.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Revolutionary Components: Embracing React JS, we've reimagined components to offer fresh perspectives and functionalities.
 
-## Expanding the ESLint configuration
+Immersive Animations: Elevating user engagement with enchanting animations tailored to each section, creating an immersive journey through the website.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 👨‍💻Tech Stack
+React JS: Our cornerstone for crafting dynamic frontend components and managing state efficiently.
+
+Framer Motion: Enhancing visual appeal with captivating marquee animations.
+
+Tailwind CSS Ensuring precise styling that stays true to the original design aesthetic.
+
+Locomotive Scroll Driving our smooth scrolling animations for a fluid user experience.
+
+🌐 Live Site
+[Click here to view the project](https://anaghroy.github.io/Rekous-Recreated/)
+
+📦 Getting Started
+
+```bash
+git clone https://github.com/anaghroy/Rekous-Recreated.git
+cd Rekous-Recreated
+npm install
+npm run dev
+
+✨ Connect with Me
+[LinkedIn](https://www.linkedin.com/in/anagh-roy-5a4640290/)
